@@ -1,0 +1,16 @@
+{
+  "name": "@har2lolicode/parser",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "uuid": "9.0.1",
+    "zod": "3.22.4"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.7"
+  }
+}
